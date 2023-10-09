@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Fábio Neves 🖐️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fxbinho_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fxbinho_)<br>
 ![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioNeves28&show_icons=true&theme=dracula&count_private=true)
 
-![Fabio GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={FabioNeves28}&theme=blue-green)
+![Fabio GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioNeves28&theme=blue-green)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
